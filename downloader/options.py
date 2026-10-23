@@ -5,6 +5,8 @@ from . import HISTORY_FILE
 from .progress import progress_hook
 
 def build_options(args):
+
+    Path(HISTORY_FILE).parent.mkdir(parents=True, exist_ok=True)
     
     template = str(
         Path(args.directory) / "%(uploader)s" / "%(title)s.%(ext)s"
