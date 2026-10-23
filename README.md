@@ -3,7 +3,7 @@
 # CuDownloader
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![yt-dlp](https://img.shields.io/badge/yt--dlp-2024.12.13-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/yt-dlp/yt-dlp)
+[![yt-dlp](https://img.shields.io/badge/yt--dlp-2026.10.21-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/yt-dlp/yt-dlp)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-En%20Desarrollo-orange?style=for-the-badge)](https://github.com)
 
